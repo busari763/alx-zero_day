@@ -1,1 +1,6 @@
 nano up_to_date
+ctrl o
+ctrl x
+git add up_to_date
+git commit -m "How to be up to date on git"
+git push origin main
