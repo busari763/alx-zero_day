@@ -1,0 +1,5 @@
+Often, when working on a project that uses Git, you’ll want to exclude specific files or directories from being pushed to the remote repository. This is where .gitignore file comes in handy.
+
+The .gitignore file specifies what untracked files Git should ignore.
+
+~
